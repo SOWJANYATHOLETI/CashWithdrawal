@@ -1,0 +1,16 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.denomination-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.button {
+  width: 120px;
+  padding: 5px;
+  color: #d4d2db;
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  cursor: pointer;
+  outline: none;
+}
